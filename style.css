@@ -1,0 +1,26 @@
+.estructura-principal {
+  background-color: pink;
+  display: flex;
+}
+
+.contenido {
+  background-color: greenyellow;
+  width: 80%;
+}
+aside {
+  background-color: purple;
+  width: 20%;
+}
+header {
+  background-color: blue;
+  height: 500px;
+}
+
+section {
+  background-color: grey;
+  height: 400px;
+}
+footer {
+  background-color: black;
+  height: 300px;
+}
